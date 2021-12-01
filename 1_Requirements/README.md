@@ -1,1 +1,2 @@
-
+# Introduction
+Tiny console utility runs on windows that beeps motherboard speaker via WinRing0 driver IO port read/write feature. This utility only support hardware platforms that have System Speaker device You can check out this in Device Manager: Set View to Resources by type, then select Input/Output (IO), checkout port 0x61, it should be System Speaker, otherwise this utility won't work on your platform.It is characterized by the distinctive "beeps" and "squeaks" that it can be made to produce and is therefore sometimes referred to as the "PC Beeper" or the "PC Squeaker".
