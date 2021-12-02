@@ -22,3 +22,14 @@ When overheating is going to occur these beeper can be used. This project is use
 
 ## How
 It sense the memory and gives an system sound as an output. It will be helpful in preventing fire accidents in any places.
+
+# Detail Requirements
+## High Level Requirements
+| ID |Description |	Status |
+| ---- | --------- | ------ |
+| HLR_1 | Microcontroller |	Implemented |
+| HLR_2 |	Buzzer |	Implemented |
+| HLR_3 |	Resistor |	Implemented |
+| HLR_4 |	Potentiometer |	Implemented |
+| HLR_5 |	Tunnel |	Implemented |
+| HLR_6 |	AVR-ISP | PROGRAMMER |	Implemented |
