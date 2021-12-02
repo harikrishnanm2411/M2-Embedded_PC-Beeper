@@ -33,3 +33,12 @@ It sense the memory and gives an system sound as an output. It will be helpful i
 | HLR_4 |	Potentiometer |	Implemented |
 | HLR_5 |	Tunnel |	Implemented |
 | HLR_6 |	AVR-ISP | PROGRAMMER |	Implemented |
+## Low Level Requirements
+| ID |	Description |	Status |
+| ---- | ----------- | ------ |
+| LLR_1 |	ATmega328P |	Implemented |
+| LLR_2 |	220Ω resistor |	Implemented |
+| LLR_3 |	1KΩ resistor |	Implemented |
+| LLR_4 |	AVR-ISP PROGRAMMER |	Implemented |
+| LLR_5 |	Buzzer |	Implemented |
+| LLR_6 |	Button |	Implemented |
