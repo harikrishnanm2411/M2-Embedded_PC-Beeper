@@ -1,8 +1,8 @@
 .SUFFIXES:
 
 TARGET   = beeper
-MCU      = atmega328
-DUDE_MCU = atmega328
+MCU      = attiny85
+DUDE_MCU = attiny85
 PROGR    = avrisp
 PORT     = /dev/ttyS0
 
