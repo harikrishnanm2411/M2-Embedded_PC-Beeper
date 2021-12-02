@@ -1,3 +1,4 @@
+
 # Test Plan
 ## High level test plan
 | Test ID |	Description |	Exp i/p |	Exp o/p |	Actual out |	Type of test |
@@ -10,3 +11,5 @@ Low level test plan
 | ------- | ------------ | ------ | ---------- |
 | LLT_01 |	Buzzer |	Alarm sound |	Alarm sound |
 | LLT_02 |	Sound |	sound sensed |	sound sensed |
+Output
+![Screenshot (18)](https://user-images.githubusercontent.com/94284023/144404069-0c24110c-42c7-411d-814d-b4bd676c45c6.png)
